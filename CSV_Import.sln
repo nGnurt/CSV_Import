@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSV_Import_Api", "CSV_Impor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSV_Import_Data", "..\CSV_Data\CSV_Import_Data.csproj", "{3990E7D3-6C29-4E0C-8E40-9A4A8723479F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV_Import_Common", "..\CSV_Import_Common\CSV_Import_Common.csproj", "{0339EC4D-03FE-48F5-90D1-F84780DAF5EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSV_Import_Common", "..\CSV_Import_Common\CSV_Import_Common.csproj", "{0339EC4D-03FE-48F5-90D1-F84780DAF5EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV_Import_Business", "..\CSV_Import_Business\CSV_Import_Business.csproj", "{ADB25383-8B2E-4468-875E-EA678C756390}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSV_Import_Business", "..\CSV_Import_Business\CSV_Import_Business.csproj", "{ADB25383-8B2E-4468-875E-EA678C756390}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
